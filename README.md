@@ -5,7 +5,7 @@ Kaggle Bike Sharing Demand using Regression Techniques
 System Requirements
 -------------------
 
-Operating System
+Operating System:
 Windows/Ubuntu 
 
 Other S/w:
